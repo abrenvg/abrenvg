@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing a masters on **Sports Technology from KTH Royal Institute of Technology**
 
-- 🌱 I’m currently working on **"PRO JUMP-a jump height estimation system in beach volleyball using imu senor data**
+- 🌱 I’m currently working on **"PRO JUMP"-a jump height estimation system in beach volleyball using imu senor data**
 
 - 💬 Ask me about **C,Python,HTML,CSS,Football,Analytics**
 
