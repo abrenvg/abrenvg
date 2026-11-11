@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Abren V Gigimon</h1>
-<h3 align="center">A passionate sports and computer enthusiast from India</h3>
+<h3 align="center">A passionate sports health and computer enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently pursuing a masters on **Sports Technology from KTH Royal Institute of Technology**
 
 - 🌱 I’m currently working on **"PRO JUMP"-a jump height estimation system in beach volleyball using imu senor data**
 
-- 💬 Ask me about **C,Python,HTML,CSS,Football,Analytics**
+- 💬 Ask me about **C,Python,HTML,CSS,Football,Analytics,Machine Learning,IMU Sensors**
 
 - 📫 How to reach me **abrenvgigimon@gmail.com**
 
