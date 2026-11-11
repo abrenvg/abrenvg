@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on **"PRO JUMP"-a jump height estimation system in beach volleyball using imu senor data**
 
-- 💬 Ask me about **C,Python,HTML,CSS,Football,Analytics,Machine Learning,IMU Sensors**
+- 💬 Ask me about **Python, HTML, CSS, Football, Analytics, Machine Learning, IMU Sensors, Computer Vision, Biomechanics**
 
 - 📫 How to reach me **abrenvgigimon@gmail.com**
 
